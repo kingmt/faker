@@ -1,4 +1,11 @@
 source "http://rubygems.org"
 
-# Specify your gem's dependencies in lorem.gemspec
-gemspec
+gem 'i18n', '~> 0.5'
+
+group :test, :development do
+  gem 'rake'
+end
+
+group :test do
+  gem 'rspec'
+end
