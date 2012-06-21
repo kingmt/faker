@@ -151,5 +151,6 @@ require 'faker/name'
 require 'faker/phone_number'
 require 'faker/version'
 require 'faker/paycheck'
+require 'faker/person'
 
 require 'extensions/array'
