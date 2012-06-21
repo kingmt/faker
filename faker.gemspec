@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.name        = "faker"
   s.version     = Faker::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Benjamin Curtis"]
-  s.email       = ["benjamin.curtis@gmail.com"]
+  s.authors     = ["Michael King", "Benjamin Curtis"]
+  s.email       = ["kingmt@gmail.com", "benjamin.curtis@gmail.com"]
   s.homepage    = "http://faker.rubyforge.org"
   s.summary     = %q{Easily generate fake data}
   s.description = %q{Faker, a port of Data::Faker from Perl, is used to easily generate fake data: names, addresses, phone numbers, etc.}
