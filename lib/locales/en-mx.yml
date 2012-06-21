@@ -1,0 +1,8 @@
+en-mx:
+  faker:
+    address:
+      postcode: ['#####']
+      state: [ 'Aguascalientes', 'Baja California Sur', 'Baja California', 'Baja California Norte', 'Campeche', 'Chiapas', 'Chihuahua', 'Coahuila', 'Colima', 'Durango', 'Federal District', 'Distrito Federal', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'Mexico', 'Michoacan', 'Morelos', 'Nayarit', 'Nuevo Leon', 'Oaxaca', 'Puebla', 'Queretaro', 'Quintana Roo', 'San Luis Potosi', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala', 'Veracruz', 'Yucatan', 'Zacatecas']
+      state_abbr: [ 'AS', 'BS', 'BC', 'BC', 'CC', 'CS', 'CH', 'CL', 'CM', 'DG', 'DF', 'DF', 'GT', 'GR', 'HG', 'JC', 'MC', 'MN', 'MS', 'NT', 'NL', 'OC', 'PL', 'QT', 'QR', 'SP', 'SL', 'SR', 'TC', 'TS', 'TL', 'VZ', 'YN', 'ZS']
+    phone_number:
+      formats: ['###-###-####', '(###)###-####', '1-###-###-####', '###.###.####']
